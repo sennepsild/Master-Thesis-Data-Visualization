@@ -1,0 +1,1 @@
+The Jupyter code is quite messy, intial code contains lot of test code with some of it being used, while clearner code contains mostly only code used for the exploration.

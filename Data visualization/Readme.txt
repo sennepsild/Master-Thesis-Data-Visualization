@@ -1,0 +1,1 @@
+This folder contains all the data visualizations made for the exploratory analysis, with names as descripitve as possible to the content of the visualization
